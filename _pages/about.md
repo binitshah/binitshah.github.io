@@ -13,8 +13,8 @@ I am currently working at [Hello Robot Inc.](https://hello-robot.com/), a startu
 Education
 =========
 
-- **M.S.**, College of Computing, Georgia Institute of Technology, 2020-2021
-- **B.S.**, College of Computing, Georgia Institute of Technology, 2016-2020
+- **M.S. in Computer Science**, College of Computing, Georgia Institute of Technology, 2020-2021
+- **B.S. in Computer Science**, College of Computing, Georgia Institute of Technology, 2016-2020
 
 Work Experience
 ===============
