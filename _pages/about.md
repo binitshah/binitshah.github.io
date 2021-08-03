@@ -21,13 +21,9 @@ Work Experience
 
 - *Software Lead*, Hello Robot Inc, May 2021 - Current
   * Driving software development, supporting customers and partner projects, and mentoring a few interns.  
-- *Software Intern*, Hello Robot Inc, May 2020 - August 2020
+- *Software Intern*, Hello Robot Inc, May 2020 - May 2021
   * Developed ROS drivers for the Stretch RE1, a novel mobile manipulator.
 - *Robotics Software Development Intern*, Amazon Robotics, May 2019 - August 2019
   * Prototyped a Human Robot Interaction (HRI) device using computer vision techniques and ROS for safe collaboration on the warehouse floor.
 - *Robotics Research Intern*, Georgia Tech Research Institute, January 2019 - May 2019
   * Created a robot cell planning framework that allows robotic arms to autonomously calibrate and perform precise manipulation in a lab setting.
-- *Software Development Intern*, Amazon, May 2018 - August 2018
-  * Designed a serverless system to ingest warehouse constraints into a modelling algorithm that tracks inventory flow.
-- *Software Development Intern*, Ultimate Software, May 2017 - August 2017   
-  * Developed Ultireporting, a data access and BI reporting tool for business owners, which won a company-wide hackathon and turned into a customer facing product.
